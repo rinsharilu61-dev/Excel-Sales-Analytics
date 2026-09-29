@@ -1,4 +1,4 @@
-# Excel-Sales-Analytics
+# Sales-Analytics-Dashboard
 ## Project Overview
 The **Sales Analytics Dashboard** is an Excel-based data analytics project designed to analyze sales performance, revenue, profit, customer activity, and individual salesman performance.
 
